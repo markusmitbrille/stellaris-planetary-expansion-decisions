@@ -1,0 +1,3 @@
+﻿l_english:
+ allow_decision_mastery_of_nature:0 "§HUnlocks Decisions:§! Mastery of Nature, Domination of Nature, Rejection of Nature\n§HUnlocks Decisions:§! Vainglorious Exploration, Infrastructure Campaigns, Reckless Exploitation, Sustainability Programs"
+ describe_decision_mastery_of_nature:0 "§EThese are decisions that can permanently increase the maximum number of districts a Planet can support by up to §Y10§! and discover new Features.§!"
