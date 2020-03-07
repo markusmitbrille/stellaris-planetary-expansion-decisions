@@ -157,7 +157,7 @@ decision_vainglorious_exploration = {
 					type = name
 					localization = PLANET
 					scope = this
-				}				
+				}
 				variable = {
 					type = name
 					localization = DEPOSIT
