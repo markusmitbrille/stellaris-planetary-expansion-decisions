@@ -1,0 +1,15 @@
+version="1.1"
+tags={
+	"Balance"
+	"Buildings"
+	"Economy"
+	"Gameplay"
+	"Districts"
+	"Planetary Prospecting"
+	"Mastery of Nature"
+	"Edicts"
+	"Decisions"
+}
+name="Planetary Expansion Decisions"
+picture="thumbnail.png"
+supported_version="2.6.*"
